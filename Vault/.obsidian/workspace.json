@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "process.md",
+                "file": "notes/working sessions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "process.md",
+                "file": "notes/working sessions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "process.md",
+                "file": "notes/working sessions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "process.md"
+                "file": "notes/working sessions.md"
               }
             }
           }
@@ -148,31 +148,35 @@
   },
   "active": "2cbb7a624f0f4201",
   "lastOpenFiles": [
-    "synonymns.md",
-    "the blog.md",
-    "theater vs theatre.md",
-    "working sessions.md",
-    "timescales.md",
-    "artforms.md",
-    "advertising.md",
-    "dot-env.md",
-    "every working session.md",
-    "metadata.md",
-    "process.md",
-    "obi.md",
-    "_meta.md",
-    "foo.md",
-    "_templates/note.md",
+    "notes/wikipedia.md",
+    "notes/vanity.md",
+    "meta/What's the Deal With Philosophy.md",
+    "notes/timescales.md",
+    "notes/Time Based Art.md",
+    "notes/theater vs theatre.md",
+    "notes/the blog.md",
+    "notes/That Is A Binary.md",
+    "notes/Test Driven Development.md",
+    "notes/noticing.md",
+    "notes/nfts.md",
+    "notes/crypto.md",
+    "notes/technology.md",
+    "notes/synonymns.md",
+    "notes/Smashing Pumpkins vs Pavement.md",
+    "notes/Proof of God story idea.md",
+    "notes/Marginally better world, (statistically significantly) better parties.md",
+    "meta/process.md",
+    "notes/metadata.md",
+    "notes/Markdown Zine.md",
+    "notes/meta.md",
+    "notes/loving yourself.md",
+    "notes/list of paradigm shifts in my life.md",
+    "notes/Is this dysphoria?.md",
+    "notes/intelligence.md",
+    "notes/idpol memoir.md",
+    "meta",
+    "notes",
     "_templates",
-    "thisisabinary/the blog.md",
-    "thisisabinary/synonymns.md",
-    "thisisabinary/process.md",
-    "thisisabinary/metadata.md",
-    "thisisabinary/every working session.md",
-    "thisisabinary/dot-env.md",
-    "thisisabinary/artforms.md",
-    "thisisabinary/advertising.md",
-    "thisisabinary/_meta.md",
     "blog"
   ]
 }

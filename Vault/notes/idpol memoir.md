@@ -1,0 +1,49 @@
+
+Branching back and forth?
+
+- Bernie Sanders 2015 Seattle protest
+- 2006 immigration march
+- Gay is the new black event
+- Stopping truck at May Day protest
+- 2017 in detail, Seattle, DSA 
+- Gamergate, Sad Puppies, James’ article
+- Kill All Normies
+- Comedy, rape jokes, blackface, Lindy West, rape joke poem
+- No Youth Jail, block the bunker
+- Islamophobia, one America, Pramila
+- Anti war movement, Glen Greenwald
+- Continental vs. Atlantic philosophy, sex appeal, Scott Aaronson, Sokol 
+- Dilbert guy, gamification, PUAs 
+- Schizophrenic guy at Ron Paul event, naive Freudianism
+- Enlightenment's ongoing critique stating with French Rev, Romanticism, Marry Wollstonecraft, indigenous resistance and violence, Marx, WWI, linguistic turn, foundational challenges in Math and Science, holocaust, queerness, disability, animals, nature.
+- The hard problems through the feminist gate and the disability gate (metaphorical gates on the journey), Mumonkan 
+- The incredible gaping violence of racism and colonialism. When and how to pull away (Benjamin). 
+- Judaism as primal other, Sydney Brownstone, Corbyn, AOC, trauma
+- The naive Paglian view, yin/yang and fundamental binaries. 
+- Ernest Becker
+- The Soviet Union, tankies, Robeson
+- Cornel West, Critique of Cornel West, American Pragmatism
+- Tulsa, black economics
+- Liking rap, the odd journey around sexism, homophobia etc., poptimism, Kanye
+- The Buddha and/or Arjuna, Keanu Reaves, Racial and sexual ambiguity, David Bowie as bodhisattva (through Critchley)
+- Thinking I had an elaborated queer theory at 20. Sex/gender distinction and the biology of homosexuality / trans identity. Scientific sex being complex along with race as important factual claim that can bail you from the argument.
+- Right Wing Radio, reparations debate, Medved on Underworld  (vampires and identity politics, I wrote this as Anne rice died, queerness and desire and masquerade), Michael Savage
+- Jamaal Jackson on Elliott Bay Books, Hugo House, Kidney Donation Story. Poetry Mag, poet at Biden inauguration. Poetry in general. Audre Lorde.
+- Religion, gender, wounds, menstruation
+- Bikini Kill vs Catherine McKinnon. “The Sylvia Plath…”
+- TERFs, JK Rowling, Tumbler, “Sorting Hat”, white saviors, Dune
+- The strange case of Japan
+- Adoption 
+- Critique of the self, Foucault, existentialism, Woody Allen, age of consent
+- Philosophy, the essay, Slouching toward Bethlehem
+- Tory men and Whig measures, Malcolm X, Alex Haley. Black Fathers
+- Cybernetics, chaos, ontological argument 
+- 1984 at The Empty Space. The psychoanalytic 1984. 
+- Punching nazis, non-violence, punching as such, art
+- Experimental music and violence, Rumsfeld assassin, moment-form, the other, 9/11
+- Jeremiah Wright, Obama denunciation, New Yorker editor 
+- Russia 
+- Indigenous metaphysics, Dreamtime, happy people, 
+- The Good-hearted Stem viewpoint vs the hierarchical Stem viewpoint. Just create the conditions for better science, the only proven tool. 
+- Moment at 1:10:45 when West confuses Rumpelstiltskin and Rip Van Winkle, memory, forgetting, storytelling, lies.
+- ACLU, civil libertarians, Jews, Greenwald, denouncing fascists, platforming

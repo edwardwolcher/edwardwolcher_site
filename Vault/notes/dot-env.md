@@ -1,5 +1,3 @@
-# dot-env
-
 Before this is published it must be changed to .env
 
 You can keep in the above part

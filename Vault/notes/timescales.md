@@ -1,6 +1,4 @@
-# timescales
-
-[Artistic forms](artforms) can be categorized by the scale of time on which they engage our attention.
+[Artistic forms](artforms.md) can be categorized by the scale of time on which they engage our attention.
 
 Visual art, in general, is the widest. It works by stretching an experience into an object. Narratives are porous and a great painting or sculpture pulls open those gaps, allowing us to step through and experience the undigested pre-narrative truth of a moment at our own pace.
 

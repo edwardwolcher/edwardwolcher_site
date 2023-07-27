@@ -1,0 +1,1 @@
+Loving yourself is maybe equivalent to just treating the people and things that you love with respect.

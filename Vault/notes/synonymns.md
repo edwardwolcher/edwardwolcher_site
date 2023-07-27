@@ -1,5 +1,3 @@
-# synonyms
-
 Poets don't believe in synonyms.
 No two words ever carry the same weight;
 their meanings are made heavy with context.

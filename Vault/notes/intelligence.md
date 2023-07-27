@@ -1,0 +1,2 @@
+
+The most atomic form of intelligence is something like being able to hear if you’re slightly sharp or flat when singing a note. This is the most subtle way to be wrong when explaining the truth of the universe verbally. 

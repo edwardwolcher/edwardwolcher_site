@@ -1,0 +1,1 @@
+a funny idea for a performance is to just start on a wikipedia entry and click on every first link, or every second link or something. I am now merely brainstorming.

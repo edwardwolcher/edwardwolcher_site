@@ -1,5 +1,3 @@
-# _meta
-
 Series Title: "This is a binary"
 
 Season -3: The point at which this format is unable to express the idea
