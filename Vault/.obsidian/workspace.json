@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7b6b6c5cc042013b",
+        "id": "577111effc1feb95",
         "type": "tabs",
         "children": [
           {
-            "id": "2cbb7a624f0f4201",
+            "id": "3e1bbe5ab317712b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/advertising.md",
+                "file": "notes/artforms.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/advertising.md",
+                "file": "notes/artforms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/advertising.md",
+                "file": "notes/artforms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/advertising.md"
+                "file": "notes/artforms.md"
               }
             }
           }
@@ -146,34 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2cbb7a624f0f4201",
+  "active": "3e1bbe5ab317712b",
   "lastOpenFiles": [
-    "notes/the novel virus.md",
-    "notes/advertising.md",
-    "notes/the blog.md",
-    "notes/theater vs theatre.md",
-    "notes/Time Based Art.md",
-    "notes/thievery corporation.md",
+    "notes/timescales.md",
+    "notes/metadata.md",
+    "notes/nfts.md",
+    "notes/Smashing Pumpkins vs Pavement.md",
+    "notes/loving yourself.md",
+    "notes/idpol memoir.md",
+    "notes/I am having a relationship with a sentence.md",
+    "notes/homosexuals.md",
+    "notes/goddamn manchild.md",
+    "notes/intelligence.md",
     "notes/Marginally better world, (statistically significantly) better parties.md",
+    "notes/Proof of God story idea.md",
+    "notes/Test Driven Development.md",
+    "notes/That Is A Binary.md",
+    "notes/theater vs theatre.md",
+    "notes/thievery corporation.md",
+    "notes/advertising.md",
+    "notes/the novel virus.md",
+    "notes/the blog.md",
+    "notes/Time Based Art.md",
     "notes/Aldous Harding.md",
     "meta/Paradigm Shifts in My Life.md",
     "notes/list of paradigm shifts in my life.md",
     "meta/Intuitionist Tarot.md",
     "meta/bush-era art.md",
     "meta/this is a binary.md",
-    "notes/working sessions.md",
-    "notes/wikipedia.md",
-    "notes/vanity.md",
-    "meta/What's the Deal With Philosophy.md",
-    "notes/timescales.md",
-    "notes/That Is A Binary.md",
-    "notes/Test Driven Development.md",
-    "notes/noticing.md",
-    "notes/nfts.md",
-    "notes/crypto.md",
-    "notes/technology.md",
-    "notes/synonymns.md",
-    "notes/Smashing Pumpkins vs Pavement.md",
     "meta",
     "notes",
     "_templates",

@@ -1,5 +1,5 @@
-I didn’t learn Arabic before 
-Writing this poem
+I didn’t learn Arabic 
+Before writing this poem
 I thought about it
 
 I told her that I would
