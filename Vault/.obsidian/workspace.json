@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "acdda49173eba036",
+        "id": "7b6b6c5cc042013b",
         "type": "tabs",
         "children": [
           {
-            "id": "3133685c1ad6ce61",
+            "id": "2cbb7a624f0f4201",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dot-env.md",
+                "file": "process.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dot-env.md",
+                "file": "process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dot-env.md",
+                "file": "process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dot-env.md"
+                "file": "process.md"
               }
             }
           }
@@ -146,17 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3133685c1ad6ce61",
+  "active": "2cbb7a624f0f4201",
   "lastOpenFiles": [
+    "synonymns.md",
+    "the blog.md",
+    "theater vs theatre.md",
+    "working sessions.md",
+    "timescales.md",
+    "artforms.md",
+    "advertising.md",
+    "dot-env.md",
     "every working session.md",
     "metadata.md",
     "process.md",
-    "synonymns.md",
-    "the blog.md",
     "obi.md",
-    "advertising.md",
-    "artforms.md",
-    "dot-env.md",
     "_meta.md",
     "foo.md",
     "_templates/note.md",
@@ -170,6 +173,6 @@
     "thisisabinary/artforms.md",
     "thisisabinary/advertising.md",
     "thisisabinary/_meta.md",
-    "thisisabinary"
+    "blog"
   ]
 }
