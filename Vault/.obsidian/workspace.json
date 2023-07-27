@@ -11,8 +11,12 @@
             "id": "54b5ab8e4191f49c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/homosexuals.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/homosexuals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/homosexuals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/homosexuals.md"
+              }
             }
           }
         ]
@@ -138,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54b5ab8e4191f49c",
+  "active": "d662dd415ed40479",
   "lastOpenFiles": [
+    "notes/best kids movie.md",
+    "notes/advertising.md",
+    "notes/Aldous Harding.md",
     "meta/evergreen todos.md",
     "_templates/frontmatter.md",
     "notes/artforms.md",
@@ -160,13 +171,10 @@
     "notes/That Is A Binary.md",
     "notes/theater vs theatre.md",
     "notes/thievery corporation.md",
-    "notes/advertising.md",
     "notes/the novel virus.md",
     "notes/the blog.md",
     "notes/Time Based Art.md",
-    "notes/Aldous Harding.md",
     "meta/Paradigm Shifts in My Life.md",
-    "notes/list of paradigm shifts in my life.md",
     "meta",
     "notes",
     "_templates",
