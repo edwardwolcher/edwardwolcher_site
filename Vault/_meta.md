@@ -1,6 +1,6 @@
 # _meta
 
-Series Title: "Is that a binary?"
+Series Title: "This is a binary"
 
 Season -3: The point at which this format is unable to express the idea
 Season -2.1: The code you write to accomplish that
