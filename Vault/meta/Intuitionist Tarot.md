@@ -1,0 +1,29 @@
+- Introduction
+	- Intuitionism & The Unconscious
+	- The Origins of Number and Difference
+	- Math and Magic
+	- Art, Mysticism, Language
+	- "Energy"
+	- Note on Gender
+	- Note on Hierarchy
+	- Caution on Power
+- Part I - The Minor Arcana
+	- Chapter 1 - The Units
+		- Fundamental Properties of the Suits, NSEW, 2-Dimensional Space
+		- The Ace of Swords, Wands, Cups, Pentacles
+	- Chapter 2 - The Elemental Cards (2, 3, 4)
+	- Chapter 3 - The Personal Cards (5, 6, 7)
+	- Chapter 4 - The Social Cards (8, 9, 10)
+	- Chapter 5 - The Archetypes (Face Cards)
+	- Chapter 6 - The Four Kingdoms (Summary)
+- Part II - The Major Arcana
+	- Chapter 7 - Subject and Object (overview of the Major Arcana's role)
+	- Chapter 8 - Journey through the Major Arcana
+- Part III - The Cards in Relationship
+	- Chapter 9 - What Readings Look Like
+	- Chapter 10 - Pattern Recognition
+	- Chapter 11 - Devils on Your Shoulder (Relationships of Alignment)
+	- Chapter 12 - Evolution / Revolution (Relationships of Time and Change)
+	- Chapter 13 - Spiritual Matrices (Full Readings as Abstracted Narratives)
+- Appendix A - Suggestions for Ritual
+- Appendix B - Cards at a Glance
